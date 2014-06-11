@@ -1,4 +1,4 @@
 catalyst
 ========
 
-このリポジトリには [wiki](./wiki) があります。
+このリポジトリには [wiki](/mar3/catalyst/wiki) があります。
